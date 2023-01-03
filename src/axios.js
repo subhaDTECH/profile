@@ -1,7 +1,7 @@
 import Axios from "axios"
 
 const instance=Axios.create({
-    baseURL:"https://suva-dtech11.herokuapp.com"
+    baseURL:"https://protfolio11-backend.vercel.app"
 })
 
 
